@@ -1,0 +1,37 @@
+{
+  "name": "cra-template-antd-admin",
+  "version": "1.0.1",
+  "keywords": [
+    "react",
+    "admin",
+    "admin panel",
+    "create-react-app",
+    "template",
+    "typescript",
+    "antd",
+    "ant design",
+    "ant-design",
+    "styled-components",
+    "tailwind",
+    "tailwindcss",
+    "react-router",
+    "react-query",
+    "craco"
+  ],
+  "description": "The antd+TS template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FallOutChonny/cra-template-antd-admin.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/FallOutChonny/cra-template-antd-admin/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
